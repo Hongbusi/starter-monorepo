@@ -1,5 +1,5 @@
 {
-  "name": "p-name",
+  "name": "pkg-name",
   "type": "module",
   "version": "0.0.5",
   "description": "",
@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Hongbusi/starter-monorepo.git",
-    "directory": "packages/p-name"
+    "directory": "packages/pkg-name"
   },
   "bugs": {
     "url": "https://github.com/Hongbusi/starter-monorepo/issues"
