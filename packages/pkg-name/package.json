@@ -1,0 +1,17 @@
+{
+  "name": "starter-monorepo",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Hongbusi",
+  "license": "MIT",
+  "homepage": "https://github.com/Hongbusi/starter-monorepo#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hongbusi/starter-monorepo.git",
+    "directory": "packages/pkg-name"
+  },
+  "bugs": {
+    "url": "https://github.com/Hongbusi/starter-monorepo/issues"
+  }
+}
