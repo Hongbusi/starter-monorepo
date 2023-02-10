@@ -1,6 +1,6 @@
 # starter-monorepo
 
-[![NPM version](https://img.shields.io/npm/v/starter-monorepo?color=a1b858&label=)](https://www.npmjs.com/package/starter-monorepo)
+[![NPM version](https://img.shields.io/npm/v/pkg-name?color=a1b858&label=)](https://www.npmjs.com/package/pkg-name)
 
 ## License
 
