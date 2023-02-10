@@ -2,6 +2,7 @@
   "type": "module",
   "version": "0.0.0",
   "private": true,
+  "packageManager": "pnpm@7.22.0",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
