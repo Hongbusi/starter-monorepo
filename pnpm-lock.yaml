@@ -14,7 +14,7 @@ importers:
       eslint: 8.33.0
       typescript: 4.9.5
 
-  packages/p-name:
+  packages/pkg-name:
     specifiers:
       unbuild: ^1.1.1
     devDependencies:
