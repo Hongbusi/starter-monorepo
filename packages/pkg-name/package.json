@@ -13,5 +13,11 @@
   },
   "bugs": {
     "url": "https://github.com/Hongbusi/starter-monorepo/issues"
+  },
+  "scripts": {
+    "build": "unbuild"
+  },
+  "devDependencies": {
+    "unbuild": "^1.1.1"
   }
 }
